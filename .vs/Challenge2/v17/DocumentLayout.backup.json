@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\raleman\\source\\repos\\Challenge2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\steps\\usermanagementsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\steps\\usermanagementsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\features\\usermanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\features\\usermanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.gitignore",
+              "RelativeDocumentMoniker": "Challenge2\\.gitignore",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.gitignore",
+              "RelativeToolTip": "Challenge2\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T15:43:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserManagementSteps.cs",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Steps\\UserManagementSteps.cs",
               "RelativeDocumentMoniker": "Challenge2\\Steps\\UserManagementSteps.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserManagement.feature",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\features\\UserManagement.feature",
               "RelativeDocumentMoniker": "Challenge2\\features\\UserManagement.feature",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Challenge2",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
               "RelativeDocumentMoniker": "Challenge2\\Challenge2.csproj",
@@ -69,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Challenge2\\UnitTest1.cs",

@@ -55,8 +55,7 @@
               "RelativeToolTip": "Challenge2\\Steps\\UserManagementSteps.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T14:47:10.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T14:47:10.815Z"
             },
             {
               "$type": "Document",
@@ -68,21 +67,19 @@
               "RelativeToolTip": "Challenge2\\features\\UserManagement.feature",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-02-10T14:44:51.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T14:44:51.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Challenge2",
+              "Title": "Challenge2.csproj",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
               "RelativeDocumentMoniker": "Challenge2\\Challenge2.csproj",
               "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
               "RelativeToolTip": "Challenge2\\Challenge2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T14:34:22.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T14:34:22.378Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Challenge2\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:56:18.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T13:56:18.14Z"
             }
           ]
         }
