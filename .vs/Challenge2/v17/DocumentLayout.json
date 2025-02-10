@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\raleman\\source\\repos\\Challenge2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\context\\api-documentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\context\\api-documentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "API-Documentation.md",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Context\\API-Documentation.md",
+              "RelativeDocumentMoniker": "Challenge2\\Context\\API-Documentation.md",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Context\\API-Documentation.md",
+              "RelativeToolTip": "Challenge2\\Context\\API-Documentation.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-10T17:06:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.github\\workflows\\ci.yml",
               "RelativeDocumentMoniker": "Challenge2\\.github\\workflows\\ci.yml",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.gitignore",
               "RelativeDocumentMoniker": "Challenge2\\.gitignore",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserManagementSteps.cs",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Steps\\UserManagementSteps.cs",
               "RelativeDocumentMoniker": "Challenge2\\Steps\\UserManagementSteps.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserManagement.feature",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\features\\UserManagement.feature",
               "RelativeDocumentMoniker": "Challenge2\\features\\UserManagement.feature",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Challenge2.csproj",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
               "RelativeDocumentMoniker": "Challenge2\\Challenge2.csproj",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Challenge2\\UnitTest1.cs",
