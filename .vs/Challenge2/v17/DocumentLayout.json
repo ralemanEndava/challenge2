@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raleman\\source\\repos\\Challenge2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\challenge2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\steps\\usermanagementsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\steps\\usermanagementsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\features\\usermanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\features\\usermanagement.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|c:\\users\\raleman\\source\\repos\\challenge2\\challenge2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF52DA0-9317-42D6-9CBC-53262F618DCE}|Challenge2\\Challenge2.csproj|solutionrelative:challenge2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.gitignore",
+              "RelativeDocumentMoniker": "Challenge2\\.gitignore",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\.gitignore",
+              "RelativeToolTip": "Challenge2\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T15:43:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagementSteps.cs",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Steps\\UserManagementSteps.cs",
+              "RelativeDocumentMoniker": "Challenge2\\Steps\\UserManagementSteps.cs",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Steps\\UserManagementSteps.cs",
+              "RelativeToolTip": "Challenge2\\Steps\\UserManagementSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:47:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManagement.feature",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\features\\UserManagement.feature",
+              "RelativeDocumentMoniker": "Challenge2\\features\\UserManagement.feature",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\features\\UserManagement.feature",
+              "RelativeToolTip": "Challenge2\\features\\UserManagement.feature",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-10T14:44:51.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Challenge2",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
+              "RelativeDocumentMoniker": "Challenge2\\Challenge2.csproj",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\Challenge2.csproj",
+              "RelativeToolTip": "Challenge2\\Challenge2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T14:34:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Challenge2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\raleman\\source\\repos\\Challenge2\\Challenge2\\UnitTest1.cs",
+              "RelativeToolTip": "Challenge2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:56:18.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
